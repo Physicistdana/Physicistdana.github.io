@@ -10,5 +10,5 @@
 
 # Dana Abdallah
 
-_PhD student in High Energy Nuclear Physics
+PhD student in High Energy Nuclear Physics
 
