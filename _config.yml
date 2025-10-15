@@ -1,18 +1,15 @@
-title: 
+title: Dana Abdallah
 description: "PhD student in High Energy Nuclear Physics"
-author: 
-email: 
-github_username: Physicistdana
+theme: jekyll-theme-cayman   # you can also try jekyll-theme-slate
 
-# Built-in Jekyll theme (simple + nice)
-theme: jekyll-theme-cayman
-
-# Enable kramdown + MathJax for equations
-markdown: kramdown
-kramdown:
-  input: GFM
-  math_engine: mathjax
-
-# Navbar links
-# (Cayman shows these as buttons near the top)
+# Add navigation tabs (buttons)
 show_downloads: false
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Blog"
+    url: /blog/
+  - title: "CV"
+    url: /cv/CV.pdf
