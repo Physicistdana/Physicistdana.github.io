@@ -1,0 +1,9 @@
+.navbar a {
+  background: #007acc;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  margin-right: 8px;
+  text-decoration: none;
+}
+.navbar a:hover { background: #005b99; }
