@@ -1,7 +1,10 @@
---- 
+---
 layout: about
-title: About
+title: Dana Abdallah
+nav_title: About
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Ph.D. Student in Physics · Wayne State University
 
 profile:
