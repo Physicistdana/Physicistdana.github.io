@@ -3,7 +3,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Physics · <a href="https://alice-collaboration.web.cern.ch/">ALICE Collaboration, CERN</a> · Wayne State University
+subtitle: Ph.D. Student in Physics · Wayne State University
 
 profile:
   align: right
