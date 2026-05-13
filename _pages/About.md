@@ -1,7 +1,7 @@
 ---
 
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: Ph.D. Student in Physics · Wayne State University
 
