@@ -7,4 +7,3 @@ nav: true
 nav_order: 6
 ---
 
-Teaching materials and academic resources will be added here soon.
