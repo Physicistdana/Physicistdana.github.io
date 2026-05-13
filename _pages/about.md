@@ -11,7 +11,7 @@ profile:
 
 news: false
 selected_papers: false
-social: true
+social: false
 
 latest_posts:
   enabled: false
