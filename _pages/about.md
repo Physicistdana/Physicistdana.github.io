@@ -31,10 +31,10 @@ My work combines experimental analysis within the ALICE collaboration
 with large-scale Monte Carlo simulations of heavy-ion collisions using the 
 JETSCAPE/X-SCAPE frameworks on HPC clusters.
 
-My background spans several areas of nuclear physics — from low-energy 
-nuclear reaction theory and optical potential models during my M.Sc., to 
-accelerator operations at [SESAME](https://www.sesame.org.jo/), to 
-experimental high-energy heavy-ion physics at the LHC.
+#My background spans several areas of nuclear physics — from low-energy 
+#nuclear reaction theory and optical potential models during my M.Sc., to 
+#accelerator operations at [SESAME](https://www.sesame.org.jo/), to 
+#experimental high-energy heavy-ion physics at the LHC.
 
 
 ## Education
@@ -45,8 +45,8 @@ experimental high-energy heavy-ion physics at the LHC.
 
   
 ## Research Interests
-- Experimental and computational relativistic heavy-ion physics
-- Heavy-ion simulations using JETSCAPE/X-SCAPE frameworks
-- Machine learning and statistical methods in nuclear and particle physics
-- Low-energy nuclear reactions and optical potential models
-- Accelerator and collider physics
+#- Experimental and computational relativistic heavy-ion physics
+#- Heavy-ion simulations using JETSCAPE/X-SCAPE frameworks
+#- Machine learning and statistical methods in nuclear and particle physics
+#- Low-energy nuclear reactions and optical potential models
+#- Accelerator and collider physics
