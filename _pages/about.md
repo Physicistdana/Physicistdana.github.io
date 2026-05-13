@@ -7,7 +7,7 @@ subtitle: Ph.D. Student in Physics · Wayne State University
 
 profile:
   align: right
-  # image:
+  # image: dana_profile.jpg
   image_circular: false
 
 news: false
