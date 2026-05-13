@@ -25,9 +25,9 @@ announcements:
 
 Welcome — I’m Dana Abdallah, a Ph.D. student in Physics at Wayne State University, where I work in the Experimental Relativistic Heavy-Ion Physics group as a member of the [ALICE Collaboration](https://alice-collaboration.web.cern.ch/) at the Large Hadron Collider, CERN.
 
-My research focuses on probing the properties of hot and dense QCD matter produced in ultrarelativistic heavy-ion collisions, with particular interest in jet physics, particle correlations, strangeness production, and machine-learning applications in high-energy nuclear physics.
+My research focuses on probing the properties of hot and dense QCD matter produced in ultrarelativistic heavy-ion collisions, with particular interests in strangeness enhancement, jet physics, and machine-learning applications in high-energy nuclear physics.
 
-My work combines experimental analysis within the ALICE Collaboration with large-scale Monte Carlo simulations using the JETSCAPE/X-SCAPE frameworks on high-performance computing clusters.
+My work combines experimental analysis within the collaboration with large-scale Monte Carlo simulations using the JETSCAPE/X-SCAPE frameworks on high-performance computing clusters.
 
 <!--My background spans several areas of nuclear physics — from low-energy 
 nuclear reaction theory and optical potential models during my M.Sc., to 
