@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /blog/
-title: blog
+permalink: /Blog/
+title: Blog
 nav: false
 ---
 
