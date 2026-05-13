@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Dana Abdallah
+title: About
 nav_title: About
 permalink: /
 nav: true
