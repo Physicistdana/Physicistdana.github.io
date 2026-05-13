@@ -22,7 +22,8 @@ announcements:
   enabled: false
 ---
 
-#<img class="profile-soft-photo" src="/assets/img/dana_profile.jpg" alt="Dana Abdallah">
+<!--<img class="profile-soft-photo" src="/assets/img/dana_profile.jpg" alt="Dana Abdallah">
+-->
 <div class="home-banner"></div>
 
 Welcome — I’m Dana Abdallah, a Ph.D. student in Physics at Wayne State University, where I work in the Experimental Relativistic Heavy-Ion Physics group as a member of the [ALICE Collaboration](https://alice-collaboration.web.cern.ch/) at the Large Hadron Collider, CERN.
