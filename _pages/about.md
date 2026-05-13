@@ -6,7 +6,7 @@ subtitle: PhD Researcher · <a href="https://alice-collaboration.web.cern.ch/">A
 
 profile:
   align: right
-  image: dana_profile.jpg
+  #image: dana_profile.jpg
   image_circular: false
 
 news: false
