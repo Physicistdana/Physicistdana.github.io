@@ -15,8 +15,6 @@ pagination:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
 ---
-blog_name: Dana Abdallah
-blog_description: Physics, Research, and Heavy-Ion Collisions
 
 <div class="post">
 
