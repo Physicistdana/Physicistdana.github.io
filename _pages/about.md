@@ -21,17 +21,16 @@ latest_posts:
 announcements:
   enabled: false
 ---
-<!--<style>
+<style>
 .profile-soft-photo {
-  width: 260px;
-  height: 340px;
+  width: 340px;
+  height: 430px;
   object-fit: cover;
-  border-radius: 130px 130px 24px 24px;
+  border-radius: 170px 170px 28px 28px;
   display: block;
-  margin: 1.5rem auto;
+  margin: 1.5rem auto 2rem auto;
 }
 </style>
--->
 
 <img class="profile-soft-photo" src="/assets/img/dana_profile.jpg" alt="Dana Abdallah">
 <div class="home-banner"></div>
